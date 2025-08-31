@@ -94,7 +94,7 @@ const Navbar = ({ terminalMode, setTerminalMode }: Props) => {
         <div className="flex p-2 border border-gray-400 dark:border-gray-600 rounded-full items-center gap-4">
           {/* Theme Toggle - Hidden in Terminal Mode */}
           <a
-            href="https://github.com/sunilsingh203/my-personal-site"
+            href="https://github.com/sunilsingh203/My-personal-site"
             target="_blank"
             title="Source Code"
           >
